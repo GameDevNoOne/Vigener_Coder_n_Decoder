@@ -246,7 +246,7 @@ if __name__ == "__main__":
                 time.sleep(1)
                 print("1. Your keywords must not repeat any letters(i.e. 'Hello' does not work)")
                 time.sleep(2)
-                print("2. Your message can only include letters and spaces, no other signs or symbols(i.e .,!?)")
+                print("2. Your message can only include what's in the Alphabet(Check General_Purpose_Lib.py in an editor)")
                 time.sleep(2)
                 print("""            .-'''-.                                 .-''''-..        ___   
            '   _    \                             .' .'''.   `.   .'/   \  

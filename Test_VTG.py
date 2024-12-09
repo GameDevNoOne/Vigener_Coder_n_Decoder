@@ -1,7 +1,7 @@
 from Vigenere_Table_Generator import *
 
 Keyword_1 = "Covarubis"
-Keyword_2 = "Geslo"
+Keyword_2 = "Passwr"
 Message = "World is over"
 Encoded_Message = "IFFREFMKKVJŠF"
 def Test():

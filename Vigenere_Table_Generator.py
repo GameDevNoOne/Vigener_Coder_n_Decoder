@@ -239,10 +239,15 @@ if __name__ == "__main__":
              .@===*********@  .      .         @=%%@##%@*..    .@=@@@@=@.  ..==@%%%%@@@@%       .           .@*******+==@@..                
                 .@@@====++==@                  @%#####%%@%@==#@=@%%@##%@=+=@@@@#####%%%%*@                       ..                         
           .                   .                -=@##%%%####%%@#%##%%###%%@%##%%%@######%=@       .                             ..           """)
+                time.sleep(1)
                 print("Encoding Time!!!")
+                time.sleep(1)
                 print("Here are the rules:")
+                time.sleep(1)
                 print("1. Your keywords must not repeat any letters(i.e. 'Hello' does not work)")
+                time.sleep(2)
                 print("2. Your message can only include letters and spaces, no other signs or symbols(i.e .,!?)")
+                time.sleep(2)
                 print("""            .-'''-.                                 .-''''-..        ___   
            '   _    \                             .' .'''.   `.   .'/   \  
          /   /` '.   \                 .--.      /    \   \    `./ /     \ 
@@ -393,9 +398,9 @@ if __name__ == "__main__":
 ...................................======+#%%%%%:======================.........::::::..::..:.::.::.
 ....................................:=====%.-%##.===================-:.........................:....
 ............................................::---=======---:::......................................""")
-                time.sleep(2)
+                time.sleep(1)
                 print("Decode Time!!!")
-                time.sleep(2)
+                time.sleep(1)
                 print("Do you have your keywords and Encrypted message ready?")
                 input("Press Enter to continue: ")
                 print("""@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -441,7 +446,6 @@ if __name__ == "__main__":
                 input("Press enter to continue: ")
                 print(decode_Message)
                 time.sleep(5)
-                input("Press enter to continue: ")
 
             if user_Choice == "X":
                 print("Sorry to hear that...")

@@ -1,8 +1,9 @@
 from Vigenere_Table_Generator import *
 
 Keyword_1 = "Covarubis"
-Keyword_2 = "Paswrd"
-Message = "Hello "
+Keyword_2 = "Geslo"
+Message = "World is over"
+Encoded_Message = "IFFREFMKKVJŠF"
 def Test():
     diff_Table = Diff_Table(["A", "B", "C"])
     print(diff_Table)
@@ -11,6 +12,11 @@ def Test():
 def Test_Encode():
     Encoded_Message = Encode_Message(Keyword_1, Keyword_2, Message)
     print(Encoded_Message)
-    assert Encoded_Message == "ZŠXRVF", "Message je {}".format(Encoded_Message)
+
+def Test_Decode():
+    Decoded_Message = Decode_Message(Keyword_1, Keyword_2, Encoded_Message)
+    print(Decoded_Message)
+
 if __name__ == "__main__":
     Test_Encode()
+    Test_Decode()

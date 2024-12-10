@@ -7,6 +7,15 @@ It's pretty straightforward to be honest but filled with my autism and idiotism.
 
 ![alt text](https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/smug-megumin-gun-konosuba-design-konosuba.jpg "Damn I might be")
 
+## Install Instructions
+
+You can install this project using pip or by downloading the source code directly from Github
+
+To install through pip type this in cmd:\
+`python -m pip install viegenere-message-encoder-GameDevNoOne`\
+in the directory you want to install this in and then run\
+***Viegenere_Table_Generator.py***
+
 ## Help and User Instructions
 
 The Basic controls are:\

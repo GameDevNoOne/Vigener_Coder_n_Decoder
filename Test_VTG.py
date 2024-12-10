@@ -1,9 +1,9 @@
 from Vigenere_Table_Generator import *
 
-Keyword_1 = "Covarubis"
-Keyword_2 = "Passwr"
-Message = "World is over"
-Encoded_Message = "IFFREFMKKVJŠF"
+Keyword_1 = ""
+Keyword_2 = ""
+Message = ""
+Encoded_Message = ""
 def Test():
     diff_Table = Diff_Table(["A", "B", "C"])
     print(diff_Table)

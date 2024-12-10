@@ -35,4 +35,7 @@ It's basically a personal project of mine done in two days cause why not.
 
 I'll make quite a lot of more command line programs in the future so that I can avoid my actual work 
 
+Video Showcasing the program:\
+https://youtu.be/Bq2c3LORcuU?si=TRe44dZQ13ME9_FZ 
+
 ![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.g6cQXHQaejH2PA9APuIsewHaEJ%26pid%3DApi&f=1&ipt=3573763e9d7c5aca590175af0949e696c3b255ddba8ca03cff1c07927b2dcf86&ipo=images "I'm stupid")
